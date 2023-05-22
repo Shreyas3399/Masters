@@ -1,0 +1,17 @@
+root
+balanced
+find ROD_A
+height ROD_A
+width ROD_A
+weight ROD_A
+find BALL_A
+height BALL_A
+width BALL_A
+weight BALL_A
+find BALL_B
+height BALL_B
+width BALL_B
+weight BALL_B
+infix
+print
+quit

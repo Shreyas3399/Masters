@@ -1,0 +1,4 @@
+load mobile-5-in.txt
+help
+find XXX
+quit

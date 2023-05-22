@@ -1,0 +1,9 @@
+root
+balanced
+find EARTH
+height EARTH
+width EARTH
+weight EARTH
+infix
+print
+quit
